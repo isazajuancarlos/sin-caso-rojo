@@ -9,6 +9,8 @@ SPDX-FileCopyrightText: 2026 Juan Carlos Isaza Arenas
 
 **[🇬🇧 English](#english) · [🇪🇸 Español](#español)**
 
+**🛒 [Get sin-caso-rojo — $19 at the Xiliux store →](https://xiliux.lemonsqueezy.com)** · **[Consíguelo en la tienda Xiliux →](https://xiliux.lemonsqueezy.com)**
+
 ---
 
 ## English
