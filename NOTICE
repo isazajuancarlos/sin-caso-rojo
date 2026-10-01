@@ -1,0 +1,8 @@
+sin-caso-rojo
+Copyright (c) 2026 Isaza Arenas. All rights reserved.
+
+Proprietary software. See LICENSE.
+
+Measures which parts of a diff the test suite of a repository does NOT cover:
+it reverts each hunk separately, runs the tests and classifies them as COVERED,
+NO RED TEST, DOES NOT COMPILE or COULD NOT REVERT. Zero dependencies.
