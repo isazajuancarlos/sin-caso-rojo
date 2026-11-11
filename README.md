@@ -1,6 +1,6 @@
 <!--
 SPDX-License-Identifier: LicenseRef-Propietario
-SPDX-FileCopyrightText: 2026 Juan Carlos Isaza Arenas
+SPDX-FileCopyrightText: 2026 Juan Carlos Isaza
 -->
 
 # sin-caso-rojo
