@@ -1,0 +1,18 @@
+# SPDX-License-Identifier: LicenseRef-Propietario
+# SPDX-FileCopyrightText: 2026 Juan Carlos Isaza
+[package]
+name = "sin-caso-rojo"
+version = "0.1.0"
+edition = "2024"
+description = "Tells which parts of a diff the test suite does NOT cover, by reverting them one by one and watching whether anything turns red."
+license = "LicenseRef-Propietario"
+authors = ["Juan Carlos Isaza <isazajuancarlos@gmail.com>"]
+
+# CERO DEPENDENCIAS, y no es alarde: esta herramienta ejecuta `git apply` y el
+# banco de pruebas de OTRO repositorio. Cuanto menos código ajeno corra en esa
+# posición, mejor. Todo lo que hace cabe en `std` + `git` + el comando de
+# pruebas que se le pase.
+[dependencies]
+
+[profile.dev.package."*"]
+opt-level = 3
